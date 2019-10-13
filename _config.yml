@@ -26,8 +26,8 @@ description              : "JH @ GitHub"
 url                      : "https://213jjh.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "213jjh/213jjh.github.io"
-teaser                   : "/asset/images/logo_png.png"
-logo                     : "/asset/images/logo_png.png"
+teaser                   : "logo_png.png"
+logo                     : "logo_png.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -126,13 +126,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/213jjh"
+      url: "https://instagram.com/213jjh"
 
 # Site Footer
 footer:
