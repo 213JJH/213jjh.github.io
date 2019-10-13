@@ -26,8 +26,8 @@ description              : "JH @ GitHub"
 url                      : "https://213jjh.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "213jjh/213jjh.github.io"
-teaser                   : "logo_png.png"
-logo                     : "logo_png.png"
+teaser                   : "/asset/images/logo_png.png"
+logo                     : "/asset/images/logo_png.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
