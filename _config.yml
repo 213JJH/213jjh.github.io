@@ -22,12 +22,12 @@ title                    : "JH@GitHub"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "제이에이치"
-description              : "JH@GitHub"
+description              : "JH @ GitHub"
 url                      : "https://213jjh.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "213jjh/213jjh.github.io"
-teaser                   : "213jjh/213jjh.github.io/logo_png.png"
-logo                     : "213jjh/213jjh.github.io/logo_png.png"
+teaser                   : "logo_png.png"
+logo                     : "logo_png.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -112,7 +112,7 @@ author:
   name             : "JH | 제이에이치"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Korean, SKKU, Etc."
-  location         : "Seoul, "
+  location         : "Seoul, Korea"
   email            :
   links:
     - label: "Email"
